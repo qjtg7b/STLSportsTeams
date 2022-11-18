@@ -23,5 +23,5 @@ The _St. Louis Blues_ are an NHL (National Hockey League) team that represnts th
 
 For the full roster, [click here](https://www.nhl.com/blues/roster)
 ![Blues](St-Louis-Blues-Logo.png)
-[Check out St. Louis' MLB Team](StLouisCardinals.md)
-[Home Page]
++ [Check out St. Louis' MLB Team](StLouisCardinals.md)
++ [Home Page](README.md)
