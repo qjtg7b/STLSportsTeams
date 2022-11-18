@@ -29,5 +29,5 @@ Here is some information about the Cardinals as of 2022:
 
 For the full 40 Man Roster, [click here.](https://www.mlb.com/cardinals/roster/40-man)
 ![Cardinals](St._Louis_Cardinals_logo.svg.png)
-[Check out St. Louis' NHL Team](StLouisBlues.md)
-[Home Page]
++ [Check out St. Louis' NHL Team](StLouisBlues.md)
++ [Home Page](README.md)
