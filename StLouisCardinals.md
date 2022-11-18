@@ -28,4 +28,4 @@ Here is some information about the Cardinals as of 2022:
 + Ryan Helsley
 
 For the full 40 Man Roster, [click here.](https://www.mlb.com/cardinals/roster/40-man)
-![Cardinals] (https://github.com/qjtg7b/STLSportsTeams/blob/main/St._Louis_Cardinals_logo.svg.png)
+![Cardinals](St._Louis_Cardinals_logo.svg.png)
